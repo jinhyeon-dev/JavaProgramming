@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14fedb40-dabf-47b3-90ee-5d226919d8b5" name="변경" comment="first comit">
-      <change beforePath="$PROJECT_DIR$/src/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayTest4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +54,15 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/kimjinhyeon/Documents/study/java/JavaProgramming/src/Main.java",
+    "settings.editor.selected.configurable": "Errors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -62,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698662613026</updated>
-      <workItem from="1698662613996" duration="887000" />
+      <workItem from="1698662613996" duration="1974000" />
     </task>
     <task id="LOCAL-00001" summary="first comit">
       <option name="closed" value="true" />
@@ -96,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698663249280</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="first comit">
+      <option name="closed" value="true" />
+      <created>1698663818249</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698663818249</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,5 +133,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first comit" />
     <option name="LAST_COMMIT_MESSAGE" value="first comit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
