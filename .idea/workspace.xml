@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14fedb40-dabf-47b3-90ee-5d226919d8b5" name="변경" comment="" />
+    <list default="true" id="14fedb40-dabf-47b3-90ee-5d226919d8b5" name="변경" comment="first comit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,8 +23,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "/Users/kimjinhyeon/Documents/study/java/JavaProgramming/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -37,22 +42,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698662613026</updated>
-      <workItem from="1698662613996" duration="2000" />
+      <workItem from="1698662613996" duration="309000" />
     </task>
+    <task id="LOCAL-00001" summary="first comit">
+      <option name="closed" value="true" />
+      <created>1698662806099</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698662806099</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first comit">
+      <option name="closed" value="true" />
+      <created>1698662827435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698662827435</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first comit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first comit" />
   </component>
 </project>
