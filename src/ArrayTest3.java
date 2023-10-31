@@ -6,11 +6,11 @@ public class ArrayTest3 {
 
         String[] name = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J"};
         double[] score = new double[10];
-        int sum = 0;
+        double sum = 0;
 
         for (int i = 0; i < name.length; i++) {
             System.out.println(name[i] + " 학생의 점수를 입력하세요!");
-            score[i] = sc.nextDouble();
+            score[i] = sc.nextInt();
             sum += score[i];
         }
 

@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14fedb40-dabf-47b3-90ee-5d226919d8b5" name="변경" comment="ArrayTest">
-      <change afterPath="$PROJECT_DIR$/src/SomeWord.java" afterDir="false" />
+    <list default="true" id="14fedb40-dabf-47b3-90ee-5d226919d8b5" name="변경" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/Input10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayTest4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698662613026</updated>
       <workItem from="1698662613996" duration="2292000" />
-      <workItem from="1698716860080" duration="1532000" />
+      <workItem from="1698716860080" duration="3563000" />
     </task>
     <task id="LOCAL-00001" summary="first comit">
       <option name="closed" value="true" />
@@ -127,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698664639463</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit">
+      <option name="closed" value="true" />
+      <created>1698718516789</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698718516789</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,7 +157,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first comit" />
     <MESSAGE value="ArrayTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayTest" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
