@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14fedb40-dabf-47b3-90ee-5d226919d8b5" name="변경" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,12 @@
       <option name="presentableId" value="Default" />
       <updated>1698662613026</updated>
       <workItem from="1698662613996" duration="2292000" />
-      <workItem from="1698716860080" duration="3994000" />
+      <workItem from="1698716860080" duration="4382000" />
+      <workItem from="1698733743170" duration="32000" />
+      <workItem from="1698733776743" duration="228000" />
+      <workItem from="1698738535241" duration="2000" />
+      <workItem from="1698802477726" duration="610000" />
+      <workItem from="1698836552031" duration="26000" />
     </task>
     <task id="LOCAL-00001" summary="first comit">
       <option name="closed" value="true" />
@@ -142,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698721310994</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit">
+      <option name="closed" value="true" />
+      <created>1698721942366</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698721942366</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
