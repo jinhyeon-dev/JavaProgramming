@@ -11,8 +11,9 @@ public class Input10 {
 
         int index = sc.nextInt();
         int m = 0;
+
         for (int i = 0; i < numbers.length; i++) {
-            if(numbers[i] >= numbers[index]) {
+            if (numbers[i] >= numbers[index]) {
                 m++;
             }
         }
