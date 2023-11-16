@@ -13,8 +13,8 @@ public class FillArray2 {
             }
         }
 
-        for(int i = 0; i< num; i++) {
-            for(int j = 0; j < num; j++) {
+        for (int i = 0; i < num; i++) {
+            for (int j = 0; j < num; j++) {
                 System.out.print(array[i][j] + " ");
             }
             System.out.println();
